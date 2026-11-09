@@ -5,15 +5,15 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ziteh/astro-jing-theme"
+    "url": "https://github.com/Yummy-Yums/Yummy-Yums.github.io"
   },
-  "homepage": "https://astro-jing-theme.ziteh.dev",
+  "homepage": "https://yummy-yums.github.io",
   "keywords": [
     "astro",
     "theme",
     "blog"
   ],
-  "author": "ZiTe",
+  "author": "Elias Derby",
   "license": "MIT",
   "scripts": {
     "dev": "astro dev",

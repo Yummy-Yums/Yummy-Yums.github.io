@@ -4,11 +4,7 @@
 
 export const SOCIALS = [
   {
-    href: "https://www.youtube.com",
-    title: "YouTube",
-  },
-  {
-    href: "https://github.com/ziteh/astro-jing-theme",
+    href: "https://github.com/Yummy-Yums",
     title: "GitHub",
   },
   {
