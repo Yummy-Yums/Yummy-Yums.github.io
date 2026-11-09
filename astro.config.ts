@@ -140,16 +140,16 @@ export default defineConfig({
   fonts: [
     {
       cssVariable: "--font-body",
-      name: "Geist",
+      name: "Iosevka",
       weights: [400, 700],
       styles: ["normal"],
-      fallbacks: ["sans-serif"],
+      fallbacks: ["monospace"],
       formats: ["woff2"],
       provider: fontProviders.fontsource(),
     },
     {
       cssVariable: "--font-mono",
-      name: "Fira Mono",
+      name: "Iosevka",
       weights: [400, 700],
       styles: ["normal"],
       fallbacks: ["monospace"],
